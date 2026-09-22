@@ -8,6 +8,9 @@ Le simulateur (`com.financeanalyzer.ui.PortfolioApp`) rejoue l'historique de
 prix d'AAPL jour par jour et permet d'acheter/vendre ces produits pour observer
 concrètement leur mécanique.
 
+> **Débutant·e en finance ?** Commence par [`docs/guide-produits-financiers.md`](docs/guide-produits-financiers.md) :
+> un guide pédagogique qui explique chaque produit depuis zéro, avec des exemples chiffrés.
+
 ## Les produits financiers modélisés
 
 Tous héritent de `Asset` (`src/main/java/com/financeanalyzer/portfolio/`), qui
